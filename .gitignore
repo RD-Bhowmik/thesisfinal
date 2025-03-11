@@ -1,0 +1,31 @@
+p3/ 
+p3/bin/
+p3/lib64
+p3/share/
+IARCImageBankColpo/ 
+
+
+# Python bytecode files
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python distribution / packaging
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
