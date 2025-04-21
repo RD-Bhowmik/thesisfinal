@@ -3,7 +3,8 @@ p3/bin/
 p3/lib64
 p3/share/
 IARCImageBankColpo/ 
-
+cached_graphs/ 
+all_colposcopy_images/ 
 
 # Python bytecode files
 *.pyc

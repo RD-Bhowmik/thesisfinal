@@ -1,0 +1,911 @@
+Case Number,Original Filename,Original Path,New Filename,Image Type
+1,AAAW3.jpg,Case 001/AAAW3.jpg,AAAW3.jpg,After acetic acid
+1,AAAW2.jpg,Case 001/AAAW2.jpg,AAAW2.jpg,After acetic acid with green filter
+1,AAAW1.jpg,Case 001/AAAW1.jpg,AAAW1.jpg,After normal saline
+1,AAAW4.jpg,Case 001/AAAW4.jpg,AAAW4.jpg,After Lugol’s iodine
+2,AADE4.jpg,Case 002/AADE4.jpg,AADE4.jpg,After Lugol’s iodine
+2,AADE0.jpg,Case 002/AADE0.jpg,AADE0.jpg,After acetic acid
+2,AADE3.jpg,Case 002/AADE3.jpg,AADE3.jpg,After acetic acid
+2,AADE1.jpg,Case 002/AADE1.jpg,AADE1.jpg,After acetic acid
+3,AADG0.jpg,Case 003/AADG0.jpg,AADG0.jpg,Speculum examination
+3,AADG1.jpg,Case 003/AADG1.jpg,AADG1.jpg,After normal saline with green filter
+3,AADG2.jpg,Case 003/AADG2.jpg,AADG2.jpg,After acetic acid
+3,AADG3.jpg,Case 003/AADG3.jpg,AADG3.jpg,After Lugol’s iodine
+4,AAEG0.jpg,Case 004/AAEG0.jpg,AAEG0.jpg,After normal saline
+4,AAEG1.jpg,Case 004/AAEG1.jpg,AAEG1.jpg,After acetic acid
+4,AAEG2.jpg,Case 004/AAEG2.jpg,AAEG2.jpg,After Lugol’s iodine
+5,AAER2.jpg,Case 005/AAER2.jpg,AAER2.jpg,After acetic acid
+5,AAER1.jpg,Case 005/AAER1.jpg,AAER1.jpg,After normal saline with green filter
+5,AAER0.jpg,Case 005/AAER0.jpg,AAER0.jpg,After normal saline
+5,AAER3.jpg,Case 005/AAER3.jpg,AAER3.jpg,After Lugol’s iodine
+6,AAFU3.jpg,Case 006/AAFU3.jpg,AAFU3.jpg,After acetic acid
+6,AAFU0.jpg,Case 006/AAFU0.jpg,AAFU0.jpg,After normal saline
+6,AAFU1.jpg,Case 006/AAFU1.jpg,AAFU1.jpg,After acetic acid
+6,AAFU2.jpg,Case 006/AAFU2.jpg,AAFU2.jpg,After acetic acid
+6,AAFU4.jpg,Case 006/AAFU4.jpg,AAFU4.jpg,After Lugol’s iodine
+7,AAFY1.jpg,Case 007/AAFY1.jpg,AAFY1.jpg,After normal saline
+7,AAFY4.jpg,Case 007/AAFY4.jpg,AAFY4.jpg,After Lugol’s iodine
+7,AAFY3.jpg,Case 007/AAFY3.jpg,AAFY3.jpg,After acetic acid
+7,AAFY0.jpg,Case 007/AAFY0.jpg,AAFY0.jpg,Speculum examination
+8,AAFZ0.jpg,Case 008/AAFZ0.jpg,AAFZ0.jpg,Speculum examination
+8,AAFZ4.jpg,Case 008/AAFZ4.jpg,AAFZ4.jpg,After acetic acid
+8,AAFZ5.jpg,Case 008/AAFZ5.jpg,AAFZ5.jpg,After acetic acid with higher magnification
+8,AAFZ2.jpg,Case 008/AAFZ2.jpg,AAFZ2.jpg,After normal saline with green filter
+9,AAGB1.jpg,Case 009/AAGB1.jpg,AAGB1.jpg,After normal saline
+9,AAGB0.jpg,Case 009/AAGB0.jpg,AAGB0.jpg,Speculum examination
+9,AAGB9.jpg,Case 009/AAGB9.jpg,AAGB9.jpg,After Lugol’s iodine
+9,AAGB5.jpg,Case 009/AAGB5.jpg,AAGB5.jpg,After acetic acid
+9,AAGB2.jpg,Case 009/AAGB2.jpg,AAGB2.jpg,After normal saline with green filter
+9,AAGB8.jpg,Case 009/AAGB8.jpg,AAGB8.jpg,After acetic acid
+9,AAGB7.jpg,Case 009/AAGB7.jpg,AAGB7.jpg,After acetic acid
+10,AAGC2.jpg,Case 010/AAGC2.jpg,AAGC2.jpg,After acetic acid
+10,AAGC0.jpg,Case 010/AAGC0.jpg,AAGC0.jpg,Speculum examination
+10,AAGC1.jpg,Case 010/AAGC1.jpg,AAGC1.jpg,After normal saline with green filter
+10,AAGC3.jpg,Case 010/AAGC3.jpg,AAGC3.jpg,After Lugol’s iodine
+11,AAGD0.jpg,Case 011/AAGD0.jpg,AAGD0.jpg,Speculum examination
+11,AAGD2.jpg,Case 011/AAGD2.jpg,AAGD2.jpg,After normal saline with green filter
+11,AAGD3.jpg,Case 011/AAGD3.jpg,AAGD3.jpg,After acetic acid
+11,AAGD5.jpg,Case 011/AAGD5.jpg,AAGD5.jpg,After Lugol’s iodine
+12,AAGF2.jpg,Case 012/AAGF2.jpg,AAGF2.jpg,After Lugol’s iodine
+12,AAGF0.jpg,Case 012/AAGF0.jpg,AAGF0.jpg,After normal saline
+12,AAGF1.jpg,Case 012/AAGF1.jpg,AAGF1.jpg,After acetic acid
+13,AAGG2.jpg,Case 013/AAGG2.jpg,AAGG2.jpg,After acetic acid
+13,AAGG3.jpg,Case 013/AAGG3.jpg,AAGG3.jpg,After acetic acid with higher magnification
+13,AAGG0.jpg,Case 013/AAGG0.jpg,AAGG0.jpg,Speculum examination
+13,AAGG1.jpg,Case 013/AAGG1.jpg,AAGG1.jpg,After normal saline
+13,AAGG4.jpg,Case 013/AAGG4.jpg,AAGG4.jpg,After Lugol’s iodine
+14,AAHE3.jpg,Case 014/AAHE3.jpg,AAHE3.jpg,After acetic acid with higher magnification
+14,AAHE4.jpg,Case 014/AAHE4.jpg,AAHE4.jpg,After Lugol’s iodine
+14,AAHE.jpg,Case 014/AAHE.jpg,AAHE.jpg,After acetic acid
+14,AAHE1.jpg,Case 014/AAHE1.jpg,AAHE1.jpg,Speculum examination
+14,AAHE0.jpg,Case 014/AAHE0.jpg,AAHE0.jpg,After normal saline with green filter
+15,AAHV0.jpg,Case 015/AAHV0.jpg,AAHV0.jpg,After normal saline
+15,AAHV2.jpg,Case 015/AAHV2.jpg,AAHV2.jpg,After acetic acid with green filter
+15,AAHV1.jpg,Case 015/AAHV1.jpg,AAHV1.jpg,After acetic acid
+16,AAIH3.jpg,Case 016/AAIH3.jpg,AAIH3.jpg,After acetic acid
+16,AAIH0.jpg,Case 016/AAIH0.jpg,AAIH0.jpg,Speculum examination
+16,AAIH4.jpg,Case 016/AAIH4.jpg,AAIH4.jpg,After Lugol’s iodine
+16,AAIH1.jpg,Case 016/AAIH1.jpg,AAIH1.jpg,After normal saline
+17,AAIL3.jpg,Case 017/AAIL3.jpg,AAIL3.jpg,After acetic acid
+17,AAIL4.jpg,Case 017/AAIL4.jpg,AAIL4.jpg,After Lugol’s iodine
+17,AAIL1.jpg,Case 017/AAIL1.jpg,AAIL1.jpg,After normal saline with green filter
+17,AAIL0.jpg,Case 017/AAIL0.jpg,AAIL0.jpg,Speculum examination
+17,AAIL2.jpg,Case 017/AAIL2.jpg,AAIL2.jpg,After normal saline
+18,AAIM1.jpg,Case 018/AAIM1.jpg,AAIM1.jpg,After acetic acid
+18,AAIM3.jpg,Case 018/AAIM3.jpg,AAIM3.jpg,After Lugol’s iodine
+18,AAIM2.jpg,Case 018/AAIM2.jpg,AAIM2.jpg,After acetic acid with green filter
+18,AAIM0.jpg,Case 018/AAIM0.jpg,AAIM0.jpg,After normal saline
+19,AAIN5.jpg,Case 019/AAIN5.jpg,AAIN5.jpg,After Lugol’s iodine
+19,AAIN2.jpg,Case 019/AAIN2.jpg,AAIN2.jpg,After normal saline with green filter
+19,AAIN3.jpg,Case 019/AAIN3.jpg,AAIN3.jpg,After acetic acid
+19,AAIN1.jpg,Case 019/AAIN1.jpg,AAIN1.jpg,After normal saline
+19,AAIN0.jpg,Case 019/AAIN0.jpg,AAIN0.jpg,Speculum examination
+19,AAIN4.jpg,Case 019/AAIN4.jpg,AAIN4.jpg,After acetic acid
+20,AAIO3.jpg,Case 020/AAIO3.jpg,AAIO3.jpg,After Lugol’s iodine
+20,AAIO1.jpg,Case 020/AAIO1.jpg,AAIO1.jpg,After normal saline with green filter
+20,AAIO0.jpg,Case 020/AAIO0.jpg,AAIO0.jpg,After normal saline
+20,AAIO2.jpg,Case 020/AAIO2.jpg,AAIO2.jpg,After acetic acid
+21,AAIP0.jpg,Case 021/AAIP0.jpg,AAIP0.jpg,After normal saline
+21,AAIP1.jpg,Case 021/AAIP1.jpg,AAIP1.jpg,After normal saline with green filter
+21,AAIP2.jpg,Case 021/AAIP2.jpg,AAIP2.jpg,After acetic acid
+21,AAIP3.jpg,Case 021/AAIP3.jpg,AAIP3.jpg,After Lugol’s iodine
+22,AAIQ0.jpg,Case 022/AAIQ0.jpg,AAIQ0.jpg,After normal saline
+22,AAIQ1.jpg,Case 022/AAIQ1.jpg,AAIQ1.jpg,After normal saline with green filter
+22,AAIQ4.jpg,Case 022/AAIQ4.jpg,AAIQ4.jpg,After Lugol’s iodine
+22,AAIQ3.jpg,Case 022/AAIQ3.jpg,AAIQ3.jpg,After acetic acid
+22,AAIQ2.jpg,Case 022/AAIQ2.jpg,AAIQ2.jpg,After acetic acid
+23,AAIR1.jpg,Case 023/AAIR1.jpg,AAIR1.jpg,After normal saline
+23,AAIR3.jpg,Case 023/AAIR3.jpg,AAIR3.jpg,After Lugol’s iodine
+23,AAIR0.jpg,Case 023/AAIR0.jpg,AAIR0.jpg,Speculum examination
+23,AAIR2.jpg,Case 023/AAIR2.jpg,AAIR2.jpg,After acetic acid
+24,AAJE1.jpg,Case 024/AAJE1.jpg,AAJE1.jpg,After acetic acid
+24,AAJE3.jpg,Case 024/AAJE3.jpg,AAJE3.jpg,After Lugol’s iodine
+24,AAJE2.jpg,Case 024/AAJE2.jpg,AAJE2.jpg,After acetic acid with higher magnification
+24,AAJE0.jpg,Case 024/AAJE0.jpg,AAJE0.jpg,After normal saline
+25,AAJF4.jpg,Case 025/AAJF4.jpg,AAJF4.jpg,After Lugol’s iodine
+25,AAJF0.jpg,Case 025/AAJF0.jpg,AAJF0.jpg,After normal saline
+25,AAJF1.jpg,Case 025/AAJF1.jpg,AAJF1.jpg,After normal saline with green filter
+25,AAJF2.jpg,Case 025/AAJF2.jpg,AAJF2.jpg,After acetic acid
+25,AAJF3.jpg,Case 025/AAJF3.jpg,AAJF3.jpg,After acetic acid
+26,AAIS0.jpg,Case 026/AAIS0.jpg,AAIS0.jpg,After normal saline
+26,AAIS1.jpg,Case 026/AAIS1.jpg,AAIS1.jpg,After acetic acid
+26,AAIS2.jpg,Case 026/AAIS2.jpg,AAIS2.jpg,After Lugol’s iodine
+27,AAHM1.jpg,Case 027/AAHM1.jpg,AAHM1.jpg,After normal saline
+27,AAHM6.jpg,Case 027/AAHM6.jpg,AAHM6.jpg,After Lugol’s iodine
+27,AAHM4.jpg,Case 027/AAHM4.jpg,AAHM4.jpg,After acetic acid
+27,AAHM3.jpg,Case 027/AAHM3.jpg,AAHM3.jpg,After acetic acid
+27,AAHM0.jpg,Case 027/AAHM0.jpg,AAHM0.jpg,Unknown
+27,AAHM5.jpg,Case 027/AAHM5.jpg,AAHM5.jpg,After acetic acid with endocervical speculum
+27,AAHM2.jpg,Case 027/AAHM2.jpg,AAHM2.jpg,After normal saline with green filter
+28,AAHL4.jpg,Case 028/AAHL4.jpg,AAHL4.jpg,After Lugol’s iodine
+28,AAHL2.jpg,Case 028/AAHL2.jpg,AAHL2.jpg,After normal saline with green filter
+28,AAHL0.jpg,Case 028/AAHL0.jpg,AAHL0.jpg,Unknown
+28,AAHL1.jpg,Case 028/AAHL1.jpg,AAHL1.jpg,After normal saline
+28,AAHL3.jpg,Case 028/AAHL3.jpg,AAHL3.jpg,After acetic acid
+29,AAFA3.jpg,Case 029/AAFA3.jpg,AAFA3.jpg,After acetic acid
+29,AAFA4.jpg,Case 029/AAFA4.jpg,AAFA4.jpg,Examination with endocervical speculum
+29,AAFA2.jpg,Case 029/AAFA2.jpg,AAFA2.jpg,After normal saline with green filter
+29,AAFA1.jpg,Case 029/AAFA1.jpg,AAFA1.jpg,After normal saline
+29,AAFA0.jpg,Case 029/AAFA0.jpg,AAFA0.jpg,Speculum examination
+29,AAFA7.jpg,Case 029/AAFA7.jpg,AAFA7.jpg,Visualization of the SCJ
+30,AAFB0.jpg,Case 030/AAFB0.jpg,AAFB0.jpg,After normal saline
+30,AAFB4.jpg,Case 030/AAFB4.jpg,AAFB4.jpg,Examination with endocervical speculum
+30,AAFB2.jpg,Case 030/AAFB2.jpg,AAFB2.jpg,After acetic acid with green filter
+30,AAFB3.jpg,Case 030/AAFB3.jpg,AAFB3.jpg,After acetic acid
+31,AAJC0.jpg,Case 031/AAJC0.jpg,AAJC0.jpg,Speculum examination
+31,AAJC1.jpg,Case 031/AAJC1.jpg,AAJC1.jpg,After normal saline
+31,AAJC5.jpg,Case 031/AAJC5.jpg,AAJC5.jpg,After Lugol’s iodine
+31,AAJC4.jpg,Case 031/AAJC4.jpg,AAJC4.jpg,After acetic acid with green filter
+31,AAJC2.jpg,Case 031/AAJC2.jpg,AAJC2.jpg,After normal saline with green filter
+31,AAJC3.jpg,Case 031/AAJC3.jpg,AAJC3.jpg,After acetic acid
+32,AAFC1.jpg,Case 032/AAFC1.jpg,AAFC1.jpg,Speculum examination
+32,AAFC3.jpg,Case 032/AAFC3.jpg,AAFC3.jpg,After acetic acid
+32,AAFC4.jpg,Case 032/AAFC4.jpg,AAFC4.jpg,After acetic acid with green filter
+32,AAFC5.jpg,Case 032/AAFC5.jpg,AAFC5.jpg,After Lugol’s iodine
+32,AAFC0.jpg,Case 032/AAFC0.jpg,AAFC0.jpg,After normal saline
+33,AAAJ1.jpg,Case 033/AAAJ1.jpg,AAAJ1.jpg,After normal saline
+33,AAAJ7.jpg,Case 033/AAAJ7.jpg,AAAJ7.jpg,After acetic acid with higher magnification
+33,AAAJ2.jpg,Case 033/AAAJ2.jpg,AAAJ2.jpg,After acetic acid
+33,AAAJ6.jpg,Case 033/AAAJ6.jpg,AAAJ6.jpg,After acetic acid with higher magnification
+33,AAAJ0.jpg,Case 033/AAAJ0.jpg,AAAJ0.jpg,Speculum examination
+33,AAAJ8.jpg,Case 033/AAAJ8.jpg,AAAJ8.jpg,After Lugol’s iodine
+34,AADY2.jpg,Case 034/AADY2.jpg,AADY2.jpg,After acetic acid
+34,AADY4.jpg,Case 034/AADY4.jpg,AADY4.jpg,After Lugol’s iodine
+34,AADY0.jpg,Case 034/AADY0.jpg,AADY0.jpg,Speculum examination
+34,AADY1.jpg,Case 034/AADY1.jpg,AADY1.jpg,After normal saline
+35,AAGV1.jpg,Case 035/AAGV1.jpg,AAGV1.jpg,After normal saline
+35,AAGV0.jpg,Case 035/AAGV0.jpg,AAGV0.jpg,Speculum examination
+35,AAGV2.jpg,Case 035/AAGV2.jpg,AAGV2.jpg,After acetic acid
+36,AAIT2.jpg,Case 036/AAIT2.jpg,AAIT2.jpg,After normal saline with green filter
+36,AAIT1.jpg,Case 036/AAIT1.jpg,AAIT1.jpg,After normal saline
+36,AAIT3.jpg,Case 036/AAIT3.jpg,AAIT3.jpg,After acetic acid
+36,AAIT0.jpg,Case 036/AAIT0.jpg,AAIT0.jpg,Speculum examination
+36,AAIT4.jpg,Case 036/AAIT4.jpg,AAIT4.jpg,After Lugol’s iodine
+37,AADP00.jpg,Case 037/AADP00.jpg,AADP00.jpg,Speculum examination
+37,AADP05.jpg,Case 037/AADP05.jpg,AADP05.jpg,After Lugol’s iodine
+37,AADP02.jpg,Case 037/AADP02.jpg,AADP02.jpg,After acetic acid
+37,AADP03.jpg,Case 037/AADP03.jpg,AADP03.jpg,After acetic acid
+37,AADP01.jpg,Case 037/AADP01.jpg,AADP01.jpg,After normal saline with green filter
+38,AADZ0.jpg,Case 038/AADZ0.jpg,AADZ0.jpg,Speculum examination
+38,AADZ2.jpg,Case 038/AADZ2.jpg,AADZ2.jpg,After acetic acid
+38,AADZ3.jpg,Case 038/AADZ3.jpg,AADZ3.jpg,After Lugol’s iodine
+39,AAEA1.jpg,Case 039/AAEA1.jpg,AAEA1.jpg,After acetic acid
+39,AAEA3.jpg,Case 039/AAEA3.jpg,AAEA3.jpg,After Lugol’s iodine
+39,AAEA0.jpg,Case 039/AAEA0.jpg,AAEA0.jpg,Speculum examination
+40,AAED4.jpg,Case 040/AAED4.jpg,AAED4.jpg,After Lugol’s iodine
+40,AAED2.jpg,Case 040/AAED2.jpg,AAED2.jpg,After acetic acid
+40,AAED1.jpg,Case 040/AAED1.jpg,AAED1.jpg,After acetic acid
+40,AAED0.jpg,Case 040/AAED0.jpg,AAED0.jpg,After normal saline with green filter
+41,AAAP2.jpg,Case 041/AAAP2.jpg,AAAP2.jpg,After normal saline with green filter
+41,AAAP3.jpg,Case 041/AAAP3.jpg,AAAP3.jpg,Unknown
+41,AAAP4.jpg,Case 041/AAAP4.jpg,AAAP4.jpg,After acetic acid
+41,AAAP1.jpg,Case 041/AAAP1.jpg,AAAP1.jpg,After normal saline
+41,AAAP6.jpg,Case 041/AAAP6.jpg,AAAP6.jpg,After Lugol’s iodine
+41,AAAP0.jpg,Case 041/AAAP0.jpg,AAAP0.jpg,Speculum examination
+42,AADF1.jpg,Case 042/AADF1.jpg,AADF1.jpg,After normal saline with green filter
+42,AADF0.jpg,Case 042/AADF0.jpg,AADF0.jpg,Speculum examination
+42,AADF4.jpg,Case 042/AADF4.jpg,AADF4.jpg,After acetic acid with higher magnification
+42,AADF5.jpg,Case 042/AADF5.jpg,AADF5.jpg,After acetic acid
+43,AAEF06.jpg,Case 043/AAEF06.jpg,AAEF06.jpg,After Lugol’s iodine
+43,AAEF00.jpg,Case 043/AAEF00.jpg,AAEF00.jpg,Speculum examination
+43,AAEF05.jpg,Case 043/AAEF05.jpg,AAEF05.jpg,After acetic acid
+43,AAEF01.jpg,Case 043/AAEF01.jpg,AAEF01.jpg,After normal saline with higher magnification
+43,AAEF02.jpg,Case 043/AAEF02.jpg,AAEF02.jpg,After normal saline with green filter
+43,AAEF04.jpg,Case 043/AAEF04.jpg,AAEF04.jpg,After acetic acid
+44,AAFD2.jpg,Case 044/AAFD2.jpg,AAFD2.jpg,After acetic acid
+44,AAFD3.jpg,Case 044/AAFD3.jpg,AAFD3.jpg,After Lugol’s iodine
+44,AAFD0.jpg,Case 044/AAFD0.jpg,AAFD0.jpg,After normal saline
+44,AAFD1.jpg,Case 044/AAFD1.jpg,AAFD1.jpg,After acetic acid
+45,AAFE5.jpg,Case 045/AAFE5.jpg,AAFE5.jpg,After Lugol’s iodine
+45,AAFE3.jpg,Case 045/AAFE3.jpg,AAFE3.jpg,After acetic acid
+45,AAFE1.jpg,Case 045/AAFE1.jpg,AAFE1.jpg,After acetic acid with green filter
+45,AAFE0.jpg,Case 045/AAFE0.jpg,AAFE0.jpg,After normal saline
+46,AAFJ3.jpg,Case 046/AAFJ3.jpg,AAFJ3.jpg,After acetic acid
+46,AAFJ4.jpg,Case 046/AAFJ4.jpg,AAFJ4.jpg,After acetic acid
+46,AAFJ0.jpg,Case 046/AAFJ0.jpg,AAFJ0.jpg,After normal saline
+46,AAFJ2.jpg,Case 046/AAFJ2.jpg,AAFJ2.jpg,After normal saline with green filter
+47,AAFK0.jpg,Case 047/AAFK0.jpg,AAFK0.jpg,Speculum examination
+47,AAFK3.jpg,Case 047/AAFK3.jpg,AAFK3.jpg,After Lugol’s iodine
+47,AAFK1.jpg,Case 047/AAFK1.jpg,AAFK1.jpg,After normal saline with green filter
+47,AAFK2.jpg,Case 047/AAFK2.jpg,AAFK2.jpg,After acetic acid
+48,AAFL3.jpg,Case 048/AAFL3.jpg,AAFL3.jpg,After acetic acid with higher magnification
+48,AAFL2.jpg,Case 048/AAFL2.jpg,AAFL2.jpg,After acetic acid
+48,AAFL1.jpg,Case 048/AAFL1.jpg,AAFL1.jpg,After acetic acid
+48,AAFL0.jpg,Case 048/AAFL0.jpg,AAFL0.jpg,After normal saline
+48,AAFL4.jpg,Case 048/AAFL4.jpg,AAFL4.jpg,After Lugol’s iodine
+49,AAFM3.jpg,Case 049/AAFM3.jpg,AAFM3.jpg,After Lugol’s iodine
+49,AAFM0.jpg,Case 049/AAFM0.jpg,AAFM0.jpg,After normal saline
+49,AAFM1.jpg,Case 049/AAFM1.jpg,AAFM1.jpg,After acetic acid
+49,AAFM2.jpg,Case 049/AAFM2.jpg,AAFM2.jpg,After acetic acid with higher magnification
+50,AAFO0.jpg,Case 050/AAFO0.jpg,AAFO0.jpg,After normal saline
+50,AAFO2.jpg,Case 050/AAFO2.jpg,AAFO2.jpg,After acetic acid
+50,AAFO1.jpg,Case 050/AAFO1.jpg,AAFO1.jpg,After acetic acid
+51,AAFP1.jpg,Case 051/AAFP1.jpg,AAFP1.jpg,After acetic acid
+51,AAFP0.jpg,Case 051/AAFP0.jpg,AAFP0.jpg,After normal saline
+51,AAFP2.jpg,Case 051/AAFP2.jpg,AAFP2.jpg,After acetic acid
+51,AAFP4.jpg,Case 051/AAFP4.jpg,AAFP4.jpg,After Lugol’s iodine
+52,AAFV1.jpg,Case 052/AAFV1.jpg,AAFV1.jpg,After normal saline with green filter
+52,AAFV3.jpg,Case 052/AAFV3.jpg,AAFV3.jpg,After acetic acid
+52,AAFV0.jpg,Case 052/AAFV0.jpg,AAFV0.jpg,After normal saline
+54,AAFX4.jpg,Case 054/AAFX4.jpg,AAFX4.jpg,After Lugol’s iodine
+54,AAFX0.jpg,Case 054/AAFX0.jpg,AAFX0.jpg,After normal saline
+54,AAFX2.jpg,Case 054/AAFX2.jpg,AAFX2.jpg,After normal saline with green filter
+54,AAFX3.jpg,Case 054/AAFX3.jpg,AAFX3.jpg,After acetic acid
+55,AAHB4.jpg,Case 055/AAHB4.jpg,AAHB4.jpg,After acetic acid
+55,AAHB1.jpg,Case 055/AAHB1.jpg,AAHB1.jpg,Speculum examination
+55,AAHB2.jpg,Case 055/AAHB2.jpg,AAHB2.jpg,After normal saline with green filter
+55,AAHB5.jpg,Case 055/AAHB5.jpg,AAHB5.jpg,After Lugol’s iodine
+56,AAIB3.jpg,Case 056/AAIB3.jpg,AAIB3.jpg,After Lugol’s iodine
+56,AAIB1.jpg,Case 056/AAIB1.jpg,AAIB1.jpg,After acetic acid
+56,AAIB2.jpg,Case 056/AAIB2.jpg,AAIB2.jpg,After acetic acid with green filter
+56,AAIB0.jpg,Case 056/AAIB0.jpg,AAIB0.jpg,After normal saline
+57,AAIC0.jpg,Case 057/AAIC0.jpg,AAIC0.jpg,After normal saline
+57,AAIC1.jpg,Case 057/AAIC1.jpg,AAIC1.jpg,After acetic acid
+57,AAIC2.jpg,Case 057/AAIC2.jpg,AAIC2.jpg,After acetic acid with green filter
+57,AAIC3.jpg,Case 057/AAIC3.jpg,AAIC3.jpg,After Lugol’s iodine
+58,AAID1.jpg,Case 058/AAID1.jpg,AAID1.jpg,After normal saline with green filter
+58,AAID3.jpg,Case 058/AAID3.jpg,AAID3.jpg,After Lugol’s iodine
+58,AAID0.jpg,Case 058/AAID0.jpg,AAID0.jpg,After normal saline
+58,AAID2.jpg,Case 058/AAID2.jpg,AAID2.jpg,After acetic acid
+58,AAID4.jpg,Case 058/AAID4.jpg,AAID4.jpg,Unknown
+59,AAIE2.jpg,Case 059/AAIE2.jpg,AAIE2.jpg,After Lugol’s iodine
+59,AAIE0.jpg,Case 059/AAIE0.jpg,AAIE0.jpg,After normal saline
+59,AAIE1.jpg,Case 059/AAIE1.jpg,AAIE1.jpg,After acetic acid
+60,AAIF0.jpg,Case 060/AAIF0.jpg,AAIF0.jpg,After normal saline
+60,AAIF2.jpg,Case 060/AAIF2.jpg,AAIF2.jpg,After acetic acid
+60,AAIF5.jpg,Case 060/AAIF5.jpg,AAIF5.jpg,After Lugol’s iodine
+60,AAIF4.jpg,Case 060/AAIF4.jpg,AAIF4.jpg,After acetic acid
+60,AAIF1.jpg,Case 060/AAIF1.jpg,AAIF1.jpg,After normal saline with green filter
+61,AAIG0.jpg,Case 061/AAIG0.jpg,AAIG0.jpg,After normal saline
+61,AAIG2.jpg,Case 061/AAIG2.jpg,AAIG2.jpg,After Lugol’s iodine
+61,AAIG1.jpg,Case 061/AAIG1.jpg,AAIG1.jpg,After acetic acid
+62,AAII4.jpg,Case 062/AAII4.jpg,AAII4.jpg,After Lugol’s iodine
+62,AAII3.jpg,Case 062/AAII3.jpg,AAII3.jpg,After acetic acid
+62,AAII1.jpg,Case 062/AAII1.jpg,AAII1.jpg,After normal saline with green filter
+62,AAII0.jpg,Case 062/AAII0.jpg,AAII0.jpg,After normal saline
+62,AAII2.jpg,Case 062/AAII2.jpg,AAII2.jpg,After acetic acid
+63,AAIK1.jpg,Case 063/AAIK1.jpg,AAIK1.jpg,After acetic acid
+63,AAIK2.jpg,Case 063/AAIK2.jpg,AAIK2.jpg,After Lugol’s iodine
+63,AAIK0.jpg,Case 063/AAIK0.jpg,AAIK0.jpg,After acetic acid
+64,AAFF2.jpg,Case 064/AAFF2.jpg,AAFF2.jpg,After acetic acid
+64,AAFF0.jpg,Case 064/AAFF0.jpg,AAFF0.jpg,Speculum examination
+64,AAFF4.jpg,Case 064/AAFF4.jpg,AAFF4.jpg,After Lugol’s iodine
+64,AAFF5.jpg,Case 064/AAFF5.jpg,AAFF5.jpg,After acetic acid
+64,AAFF3.jpg,Case 064/AAFF3.jpg,AAFF3.jpg,After acetic acid
+64,AAFF1.jpg,Case 064/AAFF1.jpg,AAFF1.jpg,After normal saline with green filter
+65,AAFG1.jpg,Case 065/AAFG1.jpg,AAFG1.jpg,After acetic acid
+65,AAFG3.jpg,Case 065/AAFG3.jpg,AAFG3.jpg,After Lugol’s iodine
+65,AAFG2.jpg,Case 065/AAFG2.jpg,AAFG2.jpg,After acetic acid
+65,AAFG0.jpg,Case 065/AAFG0.jpg,AAFG0.jpg,After acetic acid
+66,AAIA0.jpg,Case 066/AAIA0.jpg,AAIA0.jpg,After normal saline
+66,AAIA3.jpg,Case 066/AAIA3.jpg,AAIA3.jpg,After Lugol’s iodine
+66,AAIA2.jpg,Case 066/AAIA2.jpg,AAIA2.jpg,After acetic acid with higher magnification
+66,AAIA1.jpg,Case 066/AAIA1.jpg,AAIA1.jpg,After acetic acid
+67,AAFI0.jpg,Case 067/AAFI0.jpg,AAFI0.jpg,After normal saline
+67,AAFI1.jpg,Case 067/AAFI1.jpg,AAFI1.jpg,After acetic acid
+67,AAFI3.jpg,Case 067/AAFI3.jpg,AAFI3.jpg,After acetic acid with higher magnification
+67,AAFI5.jpg,Case 067/AAFI5.jpg,AAFI5.jpg,After Lugol’s iodine
+67,AAFI2.jpg,Case 067/AAFI2.jpg,AAFI2.jpg,After acetic acid
+68,AAAT2.jpg,Case 068/AAAT2.jpg,AAAT2.jpg,After normal saline
+68,AAAT0.jpg,Case 068/AAAT0.jpg,AAAT0.jpg,Speculum examination
+68,AAAT3.jpg,Case 068/AAAT3.jpg,AAAT3.jpg,After acetic acid
+68,AAAT5.jpg,Case 068/AAAT5.jpg,AAAT5.jpg,After Lugol’s iodine
+69,AAAU0.jpg,Case 069/AAAU0.jpg,AAAU0.jpg,Speculum examination
+69,AAAU2.jpg,Case 069/AAAU2.jpg,AAAU2.jpg,After acetic acid
+69,AAAU1.jpg,Case 069/AAAU1.jpg,AAAU1.jpg,After normal saline
+70,AAAV2.jpg,Case 070/AAAV2.jpg,AAAV2.jpg,Speculum examination
+70,AAAV0.jpg,Case 070/AAAV0.jpg,AAAV0.jpg,After acetic acid
+70,AAAV1.jpg,Case 070/AAAV1.jpg,AAAV1.jpg,After Lugol’s iodine
+71,AAGZ4.jpg,Case 071/AAGZ4.jpg,AAGZ4.jpg,After Lugol’s iodine
+71,AAGZ3.jpg,Case 071/AAGZ3.jpg,AAGZ3.jpg,After acetic acid
+71,AAGZ2.jpg,Case 071/AAGZ2.jpg,AAGZ2.jpg,After normal saline
+71,AAGZ5.jpg,Case 071/AAGZ5.jpg,AAGZ5.jpg,After Lugol’s iodine
+72,AAHA2.jpg,Case 072/AAHA2.jpg,AAHA2.jpg,After Lugol’s iodine
+72,AAHA1.jpg,Case 072/AAHA1.jpg,AAHA1.jpg,After acetic acid
+72,AAHA0.jpg,Case 072/AAHA0.jpg,AAHA0.jpg,After normal saline
+73,AAHC02.jpg,Case 073/AAHC02.jpg,AAHC02.jpg,After normal saline with green filter
+73,AAHC00.jpg,Case 073/AAHC00.jpg,AAHC00.jpg,After normal saline
+73,AAHC09.jpg,Case 073/AAHC09.jpg,AAHC09.jpg,After acetic acid
+73,AAHC10.jpg,Case 073/AAHC10.jpg,AAHC10.jpg,Speculum examination
+73,AAHC06.jpg,Case 073/AAHC06.jpg,AAHC06.jpg,After normal saline with green filter
+73,AAHC08.jpg,Case 073/AAHC08.jpg,AAHC08.jpg,After Lugol’s iodine
+74,AAHD0.jpg,Case 074/AAHD0.jpg,AAHD0.jpg,Speculum examination
+74,AAHD2.jpg,Case 074/AAHD2.jpg,AAHD2.jpg,After acetic acid with green filter
+74,AAHD3.jpg,Case 074/AAHD3.jpg,AAHD3.jpg,After acetic acid
+74,AAHD5.jpg,Case 074/AAHD5.jpg,AAHD5.jpg,After Lugol’s iodine
+75,AAIV0.jpg,Case 075/AAIV0.jpg,AAIV0.jpg,Speculum examination
+75,AAIV3.jpg,Case 075/AAIV3.jpg,AAIV3.jpg,After acetic acid
+75,AAIV1.jpg,Case 075/AAIV1.jpg,AAIV1.jpg,After normal saline
+75,AAIV4.jpg,Case 075/AAIV4.jpg,AAIV4.jpg,After Lugol’s iodine
+75,AAIV2.jpg,Case 075/AAIV2.jpg,AAIV2.jpg,After normal saline with green filter
+76,AADN0.jpg,Case 076/AADN0.jpg,AADN0.jpg,Speculum examination
+76,AADN3.jpg,Case 076/AADN3.jpg,AADN3.jpg,After acetic acid
+76,AADN2.jpg,Case 076/AADN2.jpg,AADN2.jpg,After normal saline with green filter
+76,AADN5.jpg,Case 076/AADN5.jpg,AADN5.jpg,After Lugol’s iodine
+77,AAEN3.jpg,Case 077/AAEN3.jpg,AAEN3.jpg,After Lugol’s iodine
+77,AAEN0.jpg,Case 077/AAEN0.jpg,AAEN0.jpg,Speculum examination
+77,AAEN2.jpg,Case 077/AAEN2.jpg,AAEN2.jpg,After acetic acid
+78,AAJH0.jpg,Case 078/AAJH0.jpg,AAJH0.jpg,Before speculum examination
+78,AAJH5.jpg,Case 078/AAJH5.jpg,AAJH5.jpg,After normal saline
+78,AAJH2.jpg,Case 078/AAJH2.jpg,AAJH2.jpg,After normal saline
+78,AAJH1.jpg,Case 078/AAJH1.jpg,AAJH1.jpg,Speculum examination
+78,AAJH3.jpg,Case 078/AAJH3.jpg,AAJH3.jpg,After normal saline
+79,AAHK1.jpg,Case 079/AAHK1.jpg,AAHK1.jpg,After normal saline with green filter
+79,AAHK4.jpg,Case 079/AAHK4.jpg,AAHK4.jpg,After acetic acid
+79,AAHK3.jpg,Case 079/AAHK3.jpg,AAHK3.jpg,After acetic acid
+79,AAHK2.jpg,Case 079/AAHK2.jpg,AAHK2.jpg,After acetic acid
+79,AAHK0.jpg,Case 079/AAHK0.jpg,AAHK0.jpg,After normal saline
+80,AAJL3.jpg,Case 080/AAJL3.jpg,AAJL3.jpg,After acetic acid
+80,AAJL0.jpg,Case 080/AAJL0.jpg,AAJL0.jpg,Speculum examination
+80,AAJL1.jpg,Case 080/AAJL1.jpg,AAJL1.jpg,After normal saline
+80,AAJL2.jpg,Case 080/AAJL2.jpg,AAJL2.jpg,After normal saline with green filter
+80,AAJL4.jpg,Case 080/AAJL4.jpg,AAJL4.jpg,Examination with endocervical speculum
+81,AABB0.jpg,Case 081/AABB0.jpg,AABB0.jpg,After normal saline
+81,AABB2.jpg,Case 081/AABB2.jpg,AABB2.jpg,After acetic acid
+81,AABB3.jpg,Case 081/AABB3.jpg,AABB3.jpg,After Lugol’s iodine
+82,AABC0.jpg,Case 082/AABC0.jpg,AABC0.jpg,After normal saline
+82,AABC1.jpg,Case 082/AABC1.jpg,AABC1.jpg,After acetic acid
+82,AABC4.jpg,Case 082/AABC4.jpg,AABC4.jpg,After Lugol’s iodine
+82,AABC3.jpg,Case 082/AABC3.jpg,AABC3.jpg,After acetic acid with green filter
+83,AABD1.jpg,Case 083/AABD1.jpg,AABD1.jpg,After acetic acid
+83,AABD2.jpg,Case 083/AABD2.jpg,AABD2.jpg,After Lugol’s iodine
+83,AABD0.jpg,Case 083/AABD0.jpg,AABD0.jpg,After normal saline
+84,AACI3.jpg,Case 084/AACI3.jpg,AACI3.jpg,After acetic acid with higher magnification
+84,AACI1.jpg,Case 084/AACI1.jpg,AACI1.jpg,After acetic acid
+84,AACI0.jpg,Case 084/AACI0.jpg,AACI0.jpg,After normal saline
+84,AACI5.jpg,Case 084/AACI5.jpg,AACI5.jpg,After Lugol’s iodine
+84,AACI4.jpg,Case 084/AACI4.jpg,AACI4.jpg,After acetic acid with higher magnification
+85,AACK2.jpg,Case 085/AACK2.jpg,AACK2.jpg,After acetic acid
+85,AACK0.jpg,Case 085/AACK0.jpg,AACK0.jpg,After normal saline
+85,AACK4.jpg,Case 085/AACK4.jpg,AACK4.jpg,After acetic acid
+85,AACK1.jpg,Case 085/AACK1.jpg,AACK1.jpg,After normal saline with green filter
+85,AACK6.jpg,Case 085/AACK6.jpg,AACK6.jpg,After Lugol’s iodine
+86,AAEM4.jpg,Case 086/AAEM4.jpg,AAEM4.jpg,After Lugol’s iodine
+86,AAEM3.jpg,Case 086/AAEM3.jpg,AAEM3.jpg,After acetic acid with green filter
+86,AAEM2.jpg,Case 086/AAEM2.jpg,AAEM2.jpg,After acetic acid
+86,AAEM1.jpg,Case 086/AAEM1.jpg,AAEM1.jpg,After acetic acid with green filter
+87,AAIW0.jpg,Case 087/AAIW0.jpg,AAIW0.jpg,After normal saline
+87,AAIW3.jpg,Case 087/AAIW3.jpg,AAIW3.jpg,After Lugol’s iodine
+87,AAIW1.jpg,Case 087/AAIW1.jpg,AAIW1.jpg,After acetic acid
+87,AAIW2.jpg,Case 087/AAIW2.jpg,AAIW2.jpg,After acetic acid with green filter
+88,AAJB0.jpg,Case 088/AAJB0.jpg,AAJB0.jpg,After normal saline
+88,AAJB3.jpg,Case 088/AAJB3.jpg,AAJB3.jpg,After Lugol’s iodine
+88,AAJB2.jpg,Case 088/AAJB2.jpg,AAJB2.jpg,After acetic acid
+88,AAJB1.jpg,Case 088/AAJB1.jpg,AAJB1.jpg,After normal saline with green filter
+89,AAAX5.jpg,Case 089/AAAX5.jpg,AAAX5.jpg,After acetic acid with higher magnification
+89,AAAX6.jpg,Case 089/AAAX6.jpg,AAAX6.jpg,After Lugol’s iodine
+89,AAAX0.jpg,Case 089/AAAX0.jpg,AAAX0.jpg,Speculum examination
+89,AAAX2.jpg,Case 089/AAAX2.jpg,AAAX2.jpg,After normal saline
+89,AAAX4.jpg,Case 089/AAAX4.jpg,AAAX4.jpg,After acetic acid
+89,AAAX1.jpg,Case 089/AAAX1.jpg,AAAX1.jpg,After normal saline with green filter
+90,AAAY06.jpg,Case 090/AAAY06.jpg,AAAY06.jpg,After Lugol’s iodine
+90,AAAY02.jpg,Case 090/AAAY02.jpg,AAAY02.jpg,After normal saline with green filter
+90,AAAY01.jpg,Case 090/AAAY01.jpg,AAAY01.jpg,After normal saline
+90,AAAY05.jpg,Case 090/AAAY05.jpg,AAAY05.jpg,After acetic acid with green filter
+90,AAAY04.jpg,Case 090/AAAY04.jpg,AAAY04.jpg,After acetic acid
+91,AABA0.jpg,Case 091/AABA0.jpg,AABA0.jpg,After normal saline
+91,AABA2.jpg,Case 091/AABA2.jpg,AABA2.jpg,After acetic acid
+91,AABA3.jpg,Case 091/AABA3.jpg,AABA3.jpg,After Lugol’s iodine
+91,AABA1.jpg,Case 091/AABA1.jpg,AABA1.jpg,After acetic acid
+92,AAHN1.jpg,Case 092/AAHN1.jpg,AAHN1.jpg,After normal saline
+92,AAHN4.jpg,Case 092/AAHN4.jpg,AAHN4.jpg,After Lugol’s iodine
+92,AAHN2.jpg,Case 092/AAHN2.jpg,AAHN2.jpg,After acetic acid
+92,AAHN3.jpg,Case 092/AAHN3.jpg,AAHN3.jpg,After acetic acid with green filter
+92,AAHN0.jpg,Case 092/AAHN0.jpg,AAHN0.jpg,Unknown
+93,AAEZ3.jpg,Case 093/AAEZ3.jpg,AAEZ3.jpg,After acetic acid
+93,AAEZ1.jpg,Case 093/AAEZ1.jpg,AAEZ1.jpg,After normal saline with higher magnification
+93,AAEZ4.jpg,Case 093/AAEZ4.jpg,AAEZ4.jpg,After acetic acid
+93,AAEZ2.jpg,Case 093/AAEZ2.jpg,AAEZ2.jpg,After normal saline with green filter
+93,AAEZ0.jpg,Case 093/AAEZ0.jpg,AAEZ0.jpg,After normal saline
+93,AAEZ5.jpg,Case 093/AAEZ5.jpg,AAEZ5.jpg,After Lugol’s iodine
+94,AACG0.jpg,Case 094/AACG0.jpg,AACG0.jpg,After normal saline
+94,AACG1.jpg,Case 094/AACG1.jpg,AACG1.jpg,After acetic acid
+94,AACG2.jpg,Case 094/AACG2.jpg,AACG2.jpg,After Lugol’s iodine
+95,AAAZ1.jpg,Case 095/AAAZ1.jpg,AAAZ1.jpg,After normal saline
+95,AAAZ6.jpg,Case 095/AAAZ6.jpg,AAAZ6.jpg,After acetic acid with green filter
+95,AAAZ8.jpg,Case 095/AAAZ8.jpg,AAAZ8.jpg,After Lugol’s iodine
+95,AAAZ2.jpg,Case 095/AAAZ2.jpg,AAAZ2.jpg,After normal saline with green filter
+95,AAAZ4.jpg,Case 095/AAAZ4.jpg,AAAZ4.jpg,After acetic acid
+96,AAEJ3.jpg,Case 096/AAEJ3.jpg,AAEJ3.jpg,After acetic acid with green filter
+96,AAEJ2.jpg,Case 096/AAEJ2.jpg,AAEJ2.jpg,Visualization of the SCJ
+96,AAEJ1.jpg,Case 096/AAEJ1.jpg,AAEJ1.jpg,After acetic acid
+96,AAEJ4.jpg,Case 096/AAEJ4.jpg,AAEJ4.jpg,After Lugol’s iodine
+96,AAEJ0.jpg,Case 096/AAEJ0.jpg,AAEJ0.jpg,After normal saline with green filter
+97,AAGY1.jpg,Case 097/AAGY1.jpg,AAGY1.jpg,After normal saline with green filter
+97,AAGY4.jpg,Case 097/AAGY4.jpg,AAGY4.jpg,After acetic acid
+97,AAGY2.jpg,Case 097/AAGY2.jpg,AAGY2.jpg,Visualization of the SCJ
+97,AAGY5.jpg,Case 097/AAGY5.jpg,AAGY5.jpg,After Lugol’s iodine
+98,AABH2.jpg,Case 098/AABH2.jpg,AABH2.jpg,After acetic acid
+98,AABH4.jpg,Case 098/AABH4.jpg,AABH4.jpg,After acetic acid
+98,AABH0.jpg,Case 098/AABH0.jpg,AABH0.jpg,After normal saline
+98,AABH7.jpg,Case 098/AABH7.jpg,AABH7.jpg,After acetic acid
+99,AABI4.jpg,Case 099/AABI4.jpg,AABI4.jpg,After acetic acid with green filter
+99,AABI2.jpg,Case 099/AABI2.jpg,AABI2.jpg,After normal saline with green filter
+99,AABI5.jpg,Case 099/AABI5.jpg,AABI5.jpg,After Lugol’s iodine
+99,AABI3.jpg,Case 099/AABI3.jpg,AABI3.jpg,After acetic acid
+99,AABI0.jpg,Case 099/AABI0.jpg,AABI0.jpg,After normal saline
+100,AABJ0.jpg,Case 100/AABJ0.jpg,AABJ0.jpg,After normal saline
+100,AABJ1.jpg,Case 100/AABJ1.jpg,AABJ1.jpg,After acetic acid
+100,AABJ2.jpg,Case 100/AABJ2.jpg,AABJ2.jpg,After Lugol’s iodine
+101,AABL2.jpg,Case 101/AABL2.jpg,AABL2.jpg,After acetic acid
+101,AABL3.jpg,Case 101/AABL3.jpg,AABL3.jpg,After acetic acid with green filter
+101,AABL1.jpg,Case 101/AABL1.jpg,AABL1.jpg,After acetic acid
+101,AABL0.jpg,Case 101/AABL0.jpg,AABL0.jpg,After acetic acid
+101,AABL4.jpg,Case 101/AABL4.jpg,AABL4.jpg,After Lugol’s iodine
+102,AACD5.jpg,Case 102/AACD5.jpg,AACD5.jpg,After acetic acid with higher magnification
+102,AACD0.jpg,Case 102/AACD0.jpg,AACD0.jpg,After normal saline with green filter
+102,AACD2.jpg,Case 102/AACD2.jpg,AACD2.jpg,After acetic acid
+102,AACD6.jpg,Case 102/AACD6.jpg,AACD6.jpg,After Lugol’s iodine
+103,AAHP0.jpg,Case 103/AAHP0.jpg,AAHP0.jpg,After normal saline
+103,AAHP3.jpg,Case 103/AAHP3.jpg,AAHP3.jpg,After Lugol’s iodine
+103,AAHP2.jpg,Case 103/AAHP2.jpg,AAHP2.jpg,After acetic acid
+103,AAHP1.jpg,Case 103/AAHP1.jpg,AAHP1.jpg,After normal saline with green filter
+104,AAHQ0.jpg,Case 104/AAHQ0.jpg,AAHQ0.jpg,After normal saline
+104,AAHQ2.jpg,Case 104/AAHQ2.jpg,AAHQ2.jpg,After acetic acid
+104,AAHQ1.jpg,Case 104/AAHQ1.jpg,AAHQ1.jpg,After acetic acid
+104,AAHQ3.jpg,Case 104/AAHQ3.jpg,AAHQ3.jpg,After Lugol’s iodine
+105,AACA5.jpg,Case 105/AACA5.jpg,AACA5.jpg,After acetic acid with green filter
+105,AACA8.jpg,Case 105/AACA8.jpg,AACA8.jpg,After Lugol’s iodine
+105,AACA1.jpg,Case 105/AACA1.jpg,AACA1.jpg,After acetic acid
+105,AACA2.jpg,Case 105/AACA2.jpg,AACA2.jpg,After acetic acid
+106,AAJI4.jpg,Case 106/AAJI4.jpg,AAJI4.jpg,Unknown
+106,AAJI2.jpg,Case 106/AAJI2.jpg,AAJI2.jpg,After acetic acid
+106,AAJI5.jpg,Case 106/AAJI5.jpg,AAJI5.jpg,After acetic acid with green filter
+106,AAJI3.jpg,Case 106/AAJI3.jpg,AAJI3.jpg,After acetic acid
+106,AAJI0.jpg,Case 106/AAJI0.jpg,AAJI0.jpg,Speculum examination
+106,AAJI1.jpg,Case 106/AAJI1.jpg,AAJI1.jpg,After normal saline with green filter
+106,AAJI6.jpg,Case 106/AAJI6.jpg,AAJI6.jpg,After Lugol’s iodine
+107,AABU0.jpg,Case 107/AABU0.jpg,AABU0.jpg,After normal saline
+107,AABU1.jpg,Case 107/AABU1.jpg,AABU1.jpg,After normal saline with green filter
+107,AABU6.jpg,Case 107/AABU6.jpg,AABU6.jpg,After acetic acid
+107,AABU2.jpg,Case 107/AABU2.jpg,AABU2.jpg,After acetic acid
+107,AABU4.jpg,Case 107/AABU4.jpg,AABU4.jpg,After acetic acid with green filter
+108,AABP8.jpg,Case 108/AABP8.jpg,AABP8.jpg,After acetic acid with higher magnification
+108,AABP9.jpg,Case 108/AABP9.jpg,AABP9.jpg,After acetic acid with green filter
+108,AABP0.jpg,Case 108/AABP0.jpg,AABP0.jpg,Speculum examination
+108,AABP2.jpg,Case 108/AABP2.jpg,AABP2.jpg,After acetic acid
+108,AABP5.jpg,Case 108/AABP5.jpg,AABP5.jpg,After acetic acid
+109,AABN5.jpg,Case 109/AABN5.jpg,AABN5.jpg,After acetic acid with green filter
+109,AABN0.jpg,Case 109/AABN0.jpg,AABN0.jpg,Speculum examination
+109,AABN1.jpg,Case 109/AABN1.jpg,AABN1.jpg,After normal saline
+109,AABN4.jpg,Case 109/AABN4.jpg,AABN4.jpg,After acetic acid
+109,AABN6.jpg,Case 109/AABN6.jpg,AABN6.jpg,After Lugol’s iodine
+110,AABV0.jpg,Case 110/AABV0.jpg,AABV0.jpg,After normal saline
+110,AABV3.jpg,Case 110/AABV3.jpg,AABV3.jpg,After acetic acid
+110,AABV1.jpg,Case 110/AABV1.jpg,AABV1.jpg,After normal saline with green filter
+110,AABV2.jpg,Case 110/AABV2.jpg,AABV2.jpg,After acetic acid
+111,AABX17.jpg,Case 111/AABX17.jpg,AABX17.jpg,After acetic acid with higher magnification
+111,AABX00.jpg,Case 111/AABX00.jpg,AABX00.jpg,Speculum examination
+111,AABX19.jpg,Case 111/AABX19.jpg,AABX19.jpg,After acetic acid
+111,AABX22.jpg,Case 111/AABX22.jpg,AABX22.jpg,After Lugol’s iodine
+111,AABX08.jpg,Case 111/AABX08.jpg,AABX08.jpg,After acetic acid
+111,AABX04.jpg,Case 111/AABX04.jpg,AABX04.jpg,After normal saline with green filter
+111,AABX15.jpg,Case 111/AABX15.jpg,AABX15.jpg,After acetic acid
+111,AABX03.jpg,Case 111/AABX03.jpg,AABX03.jpg,After normal saline
+112,AABK0.jpg,Case 112/AABK0.jpg,AABK0.jpg,After acetic acid
+112,AABK4.jpg,Case 112/AABK4.jpg,AABK4.jpg,After Lugol’s iodine
+112,AABK1.jpg,Case 112/AABK1.jpg,AABK1.jpg,After acetic acid
+113,AACZ1.jpg,Case 113/AACZ1.jpg,AACZ1.jpg,After normal saline
+113,AACZ5.jpg,Case 113/AACZ5.jpg,AACZ5.jpg,After acetic acid
+113,AACZ0.jpg,Case 113/AACZ0.jpg,AACZ0.jpg,Speculum examination
+113,AACZ9.jpg,Case 113/AACZ9.jpg,AACZ9.jpg,After Lugol’s iodine
+113,AACZ8.jpg,Case 113/AACZ8.jpg,AACZ8.jpg,Visualization of the SCJ
+114,AAHO1.jpg,Case 114/AAHO1.jpg,AAHO1.jpg,After normal saline
+114,AAHO2.jpg,Case 114/AAHO2.jpg,AAHO2.jpg,After acetic acid
+114,AAHO0.jpg,Case 114/AAHO0.jpg,AAHO0.jpg,Unknown
+114,AAHO3.jpg,Case 114/AAHO3.jpg,AAHO3.jpg,After Lugol’s iodine
+115,AAHR1.jpg,Case 115/AAHR1.jpg,AAHR1.jpg,After normal saline with green filter
+115,AAHR0.jpg,Case 115/AAHR0.jpg,AAHR0.jpg,After normal saline
+115,AAHR4.jpg,Case 115/AAHR4.jpg,AAHR4.jpg,After Lugol’s iodine
+115,AAHR2.jpg,Case 115/AAHR2.jpg,AAHR2.jpg,After acetic acid
+115,AAHR3.jpg,Case 115/AAHR3.jpg,AAHR3.jpg,After acetic acid with higher magnification
+116,AAHS4.jpg,Case 116/AAHS4.jpg,AAHS4.jpg,After Lugol’s iodine
+116,AAHS0.jpg,Case 116/AAHS0.jpg,AAHS0.jpg,Speculum examination
+116,AAHS2.jpg,Case 116/AAHS2.jpg,AAHS2.jpg,After acetic acid
+116,AAHS1.jpg,Case 116/AAHS1.jpg,AAHS1.jpg,After normal saline with green filter
+116,AAHS3.jpg,Case 116/AAHS3.jpg,AAHS3.jpg,After acetic acid with green filter
+117,AAJJ5.jpg,Case 117/AAJJ5.jpg,AAJJ5.jpg,Examination of endocervical canal
+117,AAJJ6.jpg,Case 117/AAJJ6.jpg,AAJJ6.jpg,After Lugol’s iodine
+117,AAJJ4.jpg,Case 117/AAJJ4.jpg,AAJJ4.jpg,After acetic acid
+117,AAJJ2.jpg,Case 117/AAJJ2.jpg,AAJJ2.jpg,After acetic acid
+117,AAJJ1.jpg,Case 117/AAJJ1.jpg,AAJJ1.jpg,After normal saline with green filter
+117,AAJJ0.jpg,Case 117/AAJJ0.jpg,AAJJ0.jpg,After normal saline
+118,AABM1.jpg,Case 118/AABM1.jpg,AABM1.jpg,After acetic acid
+118,AABM6.jpg,Case 118/AABM6.jpg,AABM6.jpg,After Lugol’s iodine
+118,AABM7.jpg,Case 118/AABM7.jpg,AABM7.jpg,After Lugol’s iodine
+118,AABM3.jpg,Case 118/AABM3.jpg,AABM3.jpg,After acetic acid
+118,AABM5.jpg,Case 118/AABM5.jpg,AABM5.jpg,After acetic acid
+119,AABR17.jpg,Case 119/AABR17.jpg,AABR17.jpg,After Lugol’s iodine
+119,AABR01.jpg,Case 119/AABR01.jpg,AABR01.jpg,After normal saline
+119,AABR10.jpg,Case 119/AABR10.jpg,AABR10.jpg,After acetic acid
+119,AABR03.jpg,Case 119/AABR03.jpg,AABR03.jpg,After normal saline with green filter
+119,AABR14.jpg,Case 119/AABR14.jpg,AABR14.jpg,After acetic acid
+119,AABR08.jpg,Case 119/AABR08.jpg,AABR08.jpg,After acetic acid
+120,AABS01.jpg,Case 120/AABS01.jpg,AABS01.jpg,After normal saline with green filter
+120,AABS05.jpg,Case 120/AABS05.jpg,AABS05.jpg,After acetic acid with higher magnification
+120,AABS09.jpg,Case 120/AABS09.jpg,AABS09.jpg,After Lugol’s iodine
+120,AABS04.jpg,Case 120/AABS04.jpg,AABS04.jpg,After acetic acid with higher magnification
+120,AABS10.jpg,Case 120/AABS10.jpg,AABS10.jpg,After Lugol’s iodine
+120,AABS07.jpg,Case 120/AABS07.jpg,AABS07.jpg,Visualization of the SCJ
+120,AABS00.jpg,Case 120/AABS00.jpg,AABS00.jpg,After normal saline
+120,AABS06.jpg,Case 120/AABS06.jpg,AABS06.jpg,After acetic acid
+121,AABT0.jpg,Case 121/AABT0.jpg,AABT0.jpg,After normal saline with green filter
+121,AABT3.jpg,Case 121/AABT3.jpg,AABT3.jpg,After acetic acid
+121,AABT7.jpg,Case 121/AABT7.jpg,AABT7.jpg,After Lugol’s iodine
+121,AABT5.jpg,Case 121/AABT5.jpg,AABT5.jpg,Examination of endocervix
+122,AACF1.jpg,Case 122/AACF1.jpg,AACF1.jpg,After normal saline
+122,AACF2.jpg,Case 122/AACF2.jpg,AACF2.jpg,After acetic acid
+122,AACF3.jpg,Case 122/AACF3.jpg,AACF3.jpg,After acetic acid with green filter
+123,AACR5.jpg,Case 123/AACR5.jpg,AACR5.jpg,After acetic acid
+123,AACR7.jpg,Case 123/AACR7.jpg,AACR7.jpg,After Lugol’s iodine
+123,AACR0.jpg,Case 123/AACR0.jpg,AACR0.jpg,Speculum examination
+123,AACR3.jpg,Case 123/AACR3.jpg,AACR3.jpg,After acetic acid
+123,AACR2.jpg,Case 123/AACR2.jpg,AACR2.jpg,After acetic acid
+124,AACW3.jpg,Case 124/AACW3.jpg,AACW3.jpg,After acetic acid
+124,AACW5.jpg,Case 124/AACW5.jpg,AACW5.jpg,After acetic acid with green filter
+124,AACW0.jpg,Case 124/AACW0.jpg,AACW0.jpg,After normal saline
+124,AACW6.jpg,Case 124/AACW6.jpg,AACW6.jpg,Visualization of the SCJ
+124,AACW7.jpg,Case 124/AACW7.jpg,AACW7.jpg,After Lugol’s iodine
+125,AAES1.jpg,Case 125/AAES1.jpg,AAES1.jpg,After acetic acid with green filter
+125,AAES4.jpg,Case 125/AAES4.jpg,AAES4.jpg,After Lugol’s iodine
+125,AAES2.jpg,Case 125/AAES2.jpg,AAES2.jpg,After acetic acid
+125,AAES0.jpg,Case 125/AAES0.jpg,AAES0.jpg,After normal saline
+126,AAAN2.jpg,Case 126/AAAN2.jpg,AAAN2.jpg,After normal saline
+126,AAAN3.jpg,Case 126/AAAN3.jpg,AAAN3.jpg,After acetic acid
+126,AAAN0.jpg,Case 126/AAAN0.jpg,AAAN0.jpg,Speculum examination
+126,AAAN6.jpg,Case 126/AAAN6.jpg,AAAN6.jpg,Examination with endocervical speculum
+127,AABG6.jpg,Case 127/AABG6.jpg,AABG6.jpg,After Lugol’s iodine 
+127,AABG3.jpg,Case 127/AABG3.jpg,AABG3.jpg,Examination with endocervical speculum
+127,AABG2.jpg,Case 127/AABG2.jpg,AABG2.jpg,After acetic acid
+127,AABG1.jpg,Case 127/AABG1.jpg,AABG1.jpg,After acetic acid
+128,AACM2.jpg,Case 128/AACM2.jpg,AACM2.jpg,After acetic acid
+128,AACM0.jpg,Case 128/AACM0.jpg,AACM0.jpg,After acetic acid
+128,AACM4.jpg,Case 128/AACM4.jpg,AACM4.jpg,After Lugol’s iodine
+129,AACO0.jpg,Case 129/AACO0.jpg,AACO0.jpg,Speculum examination
+129,AACO6.jpg,Case 129/AACO6.jpg,AACO6.jpg,After normal saline
+129,AACO1.jpg,Case 129/AACO1.jpg,AACO1.jpg,After normal saline with green filter
+129,AACO2.jpg,Case 129/AACO2.jpg,AACO2.jpg,After acetic acid
+129,AACO7.jpg,Case 129/AACO7.jpg,AACO7.jpg,After Lugol’s iodine
+129,AACO5.jpg,Case 129/AACO5.jpg,AACO5.jpg,After acetic acid and pushing the polyp inside
+130,AACT11.jpg,Case 130/AACT11.jpg,AACT11.jpg,Visualization of the SCJ
+130,AACT00.jpg,Case 130/AACT00.jpg,AACT00.jpg,After normal saline
+130,AACT07.jpg,Case 130/AACT07.jpg,AACT07.jpg,Unknown
+130,AACT05.jpg,Case 130/AACT05.jpg,AACT05.jpg,After acetic acid with green filter
+130,AACT13.jpg,Case 130/AACT13.jpg,AACT13.jpg,After Lugol’s iodine
+130,AACT09.jpg,Case 130/AACT09.jpg,AACT09.jpg,After acetic acid
+131,AABQ2.jpg,Case 131/AABQ2.jpg,AABQ2.jpg,After normal saline
+131,AABQ1.jpg,Case 131/AABQ1.jpg,AABQ1.jpg,After normal saline with green filter
+131,AABQ6.jpg,Case 131/AABQ6.jpg,AABQ6.jpg,After acetic acid with green filter
+131,AABQ7.jpg,Case 131/AABQ7.jpg,AABQ7.jpg,After acetic acid with higher magnification
+131,AABQ3.jpg,Case 131/AABQ3.jpg,AABQ3.jpg,After normal saline
+132,AACB2.jpg,Case 132/AACB2.jpg,AACB2.jpg,After acetic acid
+132,AACB3.jpg,Case 132/AACB3.jpg,AACB3.jpg,After acetic acid with green filter
+132,AACB0.jpg,Case 132/AACB0.jpg,AACB0.jpg,Speculum examination
+132,AACB1.jpg,Case 132/AACB1.jpg,AACB1.jpg,After normal saline
+133,AACC0.jpg,Case 133/AACC0.jpg,AACC0.jpg,After acetic acid
+133,AACC3.jpg,Case 133/AACC3.jpg,AACC3.jpg,After acetic acid with green filter
+133,AACC2.jpg,Case 133/AACC2.jpg,AACC2.jpg,After acetic acid with higher magnification
+133,AACC4.jpg,Case 133/AACC4.jpg,AACC4.jpg,After Lugol’s iodine
+134,AACN5.jpg,Case 134/AACN5.jpg,AACN5.jpg,After Lugol’s iodine
+134,AACN2.jpg,Case 134/AACN2.jpg,AACN2.jpg,After acetic acid
+134,AACN3.jpg,Case 134/AACN3.jpg,AACN3.jpg,After acetic acid with higher magnification
+134,AACN0.jpg,Case 134/AACN0.jpg,AACN0.jpg,After normal saline
+134,AACN4.jpg,Case 134/AACN4.jpg,AACN4.jpg,Visualization of the SCJ
+135,AACU5.jpg,Case 135/AACU5.jpg,AACU5.jpg,After acetic acid 
+135,AACU6.jpg,Case 135/AACU6.jpg,AACU6.jpg,After acetic acid 
+135,AACU1.jpg,Case 135/AACU1.jpg,AACU1.jpg,After normal saline
+135,AACU4.jpg,Case 135/AACU4.jpg,AACU4.jpg,After acetic acid 
+136,AACY4.jpg,Case 136/AACY4.jpg,AACY4.jpg,After acetic acid
+136,AACY0.jpg,Case 136/AACY0.jpg,AACY0.jpg,After normal saline
+136,AACY7.jpg,Case 136/AACY7.jpg,AACY7.jpg,After acetic acid with green filter
+136,AACY1.jpg,Case 136/AACY1.jpg,AACY1.jpg,After normal saline with green filter
+136,AACY3.jpg,Case 136/AACY3.jpg,AACY3.jpg,After acetic acid
+137,AAHT0.jpg,Case 137/AAHT0.jpg,AAHT0.jpg,After normal saline
+137,AAHT1.jpg,Case 137/AAHT1.jpg,AAHT1.jpg,After normal saline with green filter
+137,AAHT3.jpg,Case 137/AAHT3.jpg,AAHT3.jpg,After acetic acid
+137,AAHT2.jpg,Case 137/AAHT2.jpg,AAHT2.jpg,After acetic acid
+137,AAHT7.jpg,Case 137/AAHT7.jpg,AAHT7.jpg,After Lugol’s iodine
+137,AAHT5.jpg,Case 137/AAHT5.jpg,AAHT5.jpg,After acetic acid
+137,AAHT4.jpg,Case 137/AAHT4.jpg,AAHT4.jpg,After acetic acid with green filter
+137,AAHT6.jpg,Case 137/AAHT6.jpg,AAHT6.jpg,Examination with endocervical speculum
+138,AAHU5.jpg,Case 138/AAHU5.jpg,AAHU5.jpg,After acetic acid with green filter
+138,AAHU4.jpg,Case 138/AAHU4.jpg,AAHU4.jpg,After acetic acid
+138,AAHU1.jpg,Case 138/AAHU1.jpg,AAHU1.jpg,After normal saline with green filter
+138,AAHU6.jpg,Case 138/AAHU6.jpg,AAHU6.jpg,After acetic acid
+138,AAHU0.jpg,Case 138/AAHU0.jpg,AAHU0.jpg,Speculum examination
+138,AAHU7.jpg,Case 138/AAHU7.jpg,AAHU7.jpg,After acetic acid with endocervical speculum
+138,AAHU9.jpg,Case 138/AAHU9.jpg,AAHU9.jpg,After Lugol’s iodine
+138,AAHU8.jpg,Case 138/AAHU8.jpg,AAHU8.jpg,After acetic acid with endocervical speculum
+138,AAHU3.jpg,Case 138/AAHU3.jpg,AAHU3.jpg,After acetic acid
+139,AAJK2.jpg,Case 139/AAJK2.jpg,AAJK2.jpg,After normal saline with green filter
+139,AAJK1.jpg,Case 139/AAJK1.jpg,AAJK1.jpg,After normal saline
+139,AAJK5.jpg,Case 139/AAJK5.jpg,AAJK5.jpg,Visualization of the SCJ
+139,AAJK4.jpg,Case 139/AAJK4.jpg,AAJK4.jpg,After acetic acid
+139,AAJK7.jpg,Case 139/AAJK7.jpg,AAJK7.jpg,After Lugol’s iodine
+139,AAJK3.jpg,Case 139/AAJK3.jpg,AAJK3.jpg,After acetic acid
+140,AACE0.jpg,Case 140/AACE0.jpg,AACE0.jpg,Vulva before acetic acid
+140,AACE8.jpg,Case 140/AACE8.jpg,AACE8.jpg,After acetic acid with green filter
+140,AACE5.jpg,Case 140/AACE5.jpg,AACE5.jpg,After acetic acid with green filter
+140,AACE2.jpg,Case 140/AACE2.jpg,AACE2.jpg,Vulva after acetic acid
+140,AACE3.jpg,Case 140/AACE3.jpg,AACE3.jpg,After acetic acid with green filter
+141,AAEV1.jpg,Case 141/AAEV1.jpg,AAEV1.jpg,After normal saline
+141,AAEV3.jpg,Case 141/AAEV3.jpg,AAEV3.jpg,After acetic acid
+141,AAEV0.jpg,Case 141/AAEV0.jpg,AAEV0.jpg,Speculum examination
+141,AAEV2.jpg,Case 141/AAEV2.jpg,AAEV2.jpg,After acetic acid
+142,AACV06.jpg,Case 142/AACV06.jpg,AACV06.jpg,After acetic acid
+142,AACV03.jpg,Case 142/AACV03.jpg,AACV03.jpg,After acetic acid
+142,AACV02.jpg,Case 142/AACV02.jpg,AACV02.jpg,After normal saline with green filter
+142,AACV01.jpg,Case 142/AACV01.jpg,AACV01.jpg,After normal saline
+142,AACV09.jpg,Case 142/AACV09.jpg,AACV09.jpg,After acetic acid with green filter
+143,AABY0.jpg,Case 143/AABY0.jpg,AABY0.jpg,After acetic acid
+143,AABY1.jpg,Case 143/AABY1.jpg,AABY1.jpg,After acetic acid
+143,AABY3.jpg,Case 143/AABY3.jpg,AABY3.jpg,After acetic acid with green filter
+144,AADX4.jpg,Case 144/AADX4.jpg,AADX4.jpg,After acetic acid with green filter
+144,AADX2.jpg,Case 144/AADX2.jpg,AADX2.jpg,After acetic acid
+144,AADX0.jpg,Case 144/AADX0.jpg,AADX0.jpg,After normal saline
+144,AADX5.jpg,Case 144/AADX5.jpg,AADX5.jpg,After Lugol’s iodine
+144,AADX3.jpg,Case 144/AADX3.jpg,AADX3.jpg,After acetic acid
+144,AADX1.jpg,Case 144/AADX1.jpg,AADX1.jpg,After normal saline
+145,AAFS00.jpg,Case 145/AAFS00.jpg,AAFS00.jpg,After normal saline with green filter
+145,AAFS09.jpg,Case 145/AAFS09.jpg,AAFS09.jpg,After acetic acid with green filter
+145,AAFS04.jpg,Case 145/AAFS04.jpg,AAFS04.jpg,After acetic acid
+145,AAFS08.jpg,Case 145/AAFS08.jpg,AAFS08.jpg,After acetic acid
+145,AAFS11.jpg,Case 145/AAFS11.jpg,AAFS11.jpg,After Lugol’s iodine
+145,AAFS07.jpg,Case 145/AAFS07.jpg,AAFS07.jpg,After acetic acid
+145,AAFS05.jpg,Case 145/AAFS05.jpg,AAFS05.jpg,After acetic acid with green filter
+146,AAIZ4.jpg,Case 146/AAIZ4.jpg,AAIZ4.jpg,After acetic acid with green filter
+146,AAIZ3.jpg,Case 146/AAIZ3.jpg,AAIZ3.jpg,After acetic acid with green filter
+146,AAIZ1.jpg,Case 146/AAIZ1.jpg,AAIZ1.jpg,After normal saline
+146,AAIZ2.jpg,Case 146/AAIZ2.jpg,AAIZ2.jpg,After acetic acid
+146,AAIZ0.jpg,Case 146/AAIZ0.jpg,AAIZ0.jpg,Speculum examination
+147,AADV3.jpg,Case 147/AADV3.jpg,AADV3.jpg,After acetic acid
+147,AADV0.jpg,Case 147/AADV0.jpg,AADV0.jpg,After normal saline
+147,AADV1.jpg,Case 147/AADV1.jpg,AADV1.jpg,After normal saline with green filter
+148,AABZ05.jpg,Case 148/AABZ05.jpg,AABZ05.jpg,After normal saline with green filter
+148,AABZ16.jpg,Case 148/AABZ16.jpg,AABZ16.jpg,After Lugol’s iodine
+148,AABZ13.jpg,Case 148/AABZ13.jpg,AABZ13.jpg,After acetic acid with green filter
+148,AABZ09.jpg,Case 148/AABZ09.jpg,AABZ09.jpg,After acetic acid
+148,AABZ01.jpg,Case 148/AABZ01.jpg,AABZ01.jpg,After normal saline
+149,AACP0.jpg,Case 149/AACP0.jpg,AACP0.jpg,Speculum examination
+149,AACP2.jpg,Case 149/AACP2.jpg,AACP2.jpg,After acetic acid
+149,AACP4.jpg,Case 149/AACP4.jpg,AACP4.jpg,After acetic acid
+149,AACP8.jpg,Case 149/AACP8.jpg,AACP8.jpg,After acetic acid
+149,AACP7.jpg,Case 149/AACP7.jpg,AACP7.jpg,After acetic acid with green filter
+150,AACQ4.jpg,Case 150/AACQ4.jpg,AACQ4.jpg,After acetic acid
+150,AACQ5.jpg,Case 150/AACQ5.jpg,AACQ5.jpg,After acetic acid with green filter
+150,AACQ6.jpg,Case 150/AACQ6.jpg,AACQ6.jpg,After Lugol’s iodine
+150,AACQ2.jpg,Case 150/AACQ2.jpg,AACQ2.jpg,After acetic acid with green filter
+150,AACQ0.jpg,Case 150/AACQ0.jpg,AACQ0.jpg,After normal saline
+151,AACS6.jpg,Case 151/AACS6.jpg,AACS6.jpg,After acetic acid
+151,AACS2.jpg,Case 151/AACS2.jpg,AACS2.jpg,After normal saline
+151,AACS3.jpg,Case 151/AACS3.jpg,AACS3.jpg,After acetic acid
+152,AADB2.jpg,Case 152/AADB2.jpg,AADB2.jpg,After acetic acid
+152,AADB4.jpg,Case 152/AADB4.jpg,AADB4.jpg,After Lugol’s iodine
+152,AADB3.jpg,Case 152/AADB3.jpg,AADB3.jpg,After acetic acid with green filter
+152,AADB0.jpg,Case 152/AADB0.jpg,AADB0.jpg,After normal saline
+152,AADB1.jpg,Case 152/AADB1.jpg,AADB1.jpg,Visualization of the SCJ
+153,AADW4.jpg,Case 153/AADW4.jpg,AADW4.jpg,Visualization of the SCJ
+153,AADW0.jpg,Case 153/AADW0.jpg,AADW0.jpg,After normal saline
+153,AADW3.jpg,Case 153/AADW3.jpg,AADW3.jpg,After acetic acid
+153,AADW1.jpg,Case 153/AADW1.jpg,AADW1.jpg,After acetic acid
+153,AADW2.jpg,Case 153/AADW2.jpg,AADW2.jpg,After acetic acid with green filter
+154,AAAQ9.jpg,Case 154/AAAQ9.jpg,AAAQ9.jpg,After acetic acid
+154,AAAQ3.jpg,Case 154/AAAQ3.jpg,AAAQ3.jpg,After acetic acid
+154,AAAQ5.jpg,Case 154/AAAQ5.jpg,AAAQ5.jpg,After acetic acid with green filter
+154,AAAQ0.jpg,Case 154/AAAQ0.jpg,AAAQ0.jpg,After normal saline
+155,AAAR4.jpg,Case 155/AAAR4.jpg,AAAR4.jpg,After normal saline with green filter with higher magnification
+155,AAAR0.jpg,Case 155/AAAR0.jpg,AAAR0.jpg,After normal saline
+155,AAAR1.jpg,Case 155/AAAR1.jpg,AAAR1.jpg,After normal saline with green filter
+155,AAAR9.jpg,Case 155/AAAR9.jpg,AAAR9.jpg,After acetic acid
+155,AAAR8.jpg,Case 155/AAAR8.jpg,AAAR8.jpg,After acetic acid with green filter
+156,AABW1.jpg,Case 156/AABW1.jpg,AABW1.jpg,After acetic acid
+156,AABW3.jpg,Case 156/AABW3.jpg,AABW3.jpg,After acetic acid with green filter
+156,AABW6.jpg,Case 156/AABW6.jpg,AABW6.jpg,After acetic acid with green filter
+156,AABW8.jpg,Case 156/AABW8.jpg,AABW8.jpg,After acetic acid
+157,AAEI1.jpg,Case 157/AAEI1.jpg,AAEI1.jpg,After normal saline
+157,AAEI2.jpg,Case 157/AAEI2.jpg,AAEI2.jpg,After acetic acid
+157,AAEI5.jpg,Case 157/AAEI5.jpg,AAEI5.jpg,After Lugol’s iodine
+157,AAEI0.jpg,Case 157/AAEI0.jpg,AAEI0.jpg,After normal saline with green filter
+158,AAEU2.jpg,Case 158/AAEU2.jpg,AAEU2.jpg,After acetic acid with green filter
+158,AAEU0.jpg,Case 158/AAEU0.jpg,AAEU0.jpg,After normal saline
+158,AAEU6.jpg,Case 158/AAEU6.jpg,AAEU6.jpg,After Lugol’s iodine
+158,AAEU1.jpg,Case 158/AAEU1.jpg,AAEU1.jpg,After acetic acid
+159,AAFQ5.jpg,Case 159/AAFQ5.jpg,AAFQ5.jpg,After acetic acid
+159,AAFQ7.jpg,Case 159/AAFQ7.jpg,AAFQ7.jpg,After Lugol’s iodine
+159,AAFQ2.jpg,Case 159/AAFQ2.jpg,AAFQ2.jpg,After acetic acid
+159,AAFQ0.jpg,Case 159/AAFQ0.jpg,AAFQ0.jpg,After normal saline
+159,AAFQ3.jpg,Case 159/AAFQ3.jpg,AAFQ3.jpg,After acetic acid
+160,AAFR7.jpg,Case 160/AAFR7.jpg,AAFR7.jpg,After acetic acid
+160,AAFR1.jpg,Case 160/AAFR1.jpg,AAFR1.jpg,After acetic acid
+160,AAFR0.jpg,Case 160/AAFR0.jpg,AAFR0.jpg,Speculum examination
+160,AAFR2.jpg,Case 160/AAFR2.jpg,AAFR2.jpg,After acetic acid with green filter
+160,AAFR5.jpg,Case 160/AAFR5.jpg,AAFR5.jpg,After acetic acid with green filter
+161,AAJA2.jpg,Case 161/AAJA2.jpg,AAJA2.jpg,After acetic acid with green filter
+161,AAJA0.jpg,Case 161/AAJA0.jpg,AAJA0.jpg,After normal saline
+161,AAJA3.jpg,Case 161/AAJA3.jpg,AAJA3.jpg,After Lugol’s iodine
+161,AAJA1.jpg,Case 161/AAJA1.jpg,AAJA1.jpg,After acetic acid
+162,AAEQ3.jpg,Case 162/AAEQ3.jpg,AAEQ3.jpg,After acetic acid
+162,AAEQ0.jpg,Case 162/AAEQ0.jpg,AAEQ0.jpg,After normal saline
+162,AAEQ4.jpg,Case 162/AAEQ4.jpg,AAEQ4.jpg,Visualization of the SCJ
+162,AAEQ1.jpg,Case 162/AAEQ1.jpg,AAEQ1.jpg,After normal saline with green filter
+163,AAAE1.jpg,Case 163/AAAE1.jpg,AAAE1.jpg,After normal saline
+163,AAAE0.jpg,Case 163/AAAE0.jpg,AAAE0.jpg,Speculum examination
+163,AAAE7.jpg,Case 163/AAAE7.jpg,AAAE7.jpg,After Lugol’s iodine
+163,AAAE6.jpg,Case 163/AAAE6.jpg,AAAE6.jpg,After acetic acid with green filter
+163,AAAE3.jpg,Case 163/AAAE3.jpg,AAAE3.jpg,After acetic acid
+163,AAAE2.jpg,Case 163/AAAE2.jpg,AAAE2.jpg,After normal saline with green filter
+164,AAAF0.jpg,Case 164/AAAF0.jpg,AAAF0.jpg,After normal saline
+164,AAAF4.jpg,Case 164/AAAF4.jpg,AAAF4.jpg,After acetic acid
+164,AAAF2.jpg,Case 164/AAAF2.jpg,AAAF2.jpg,After normal saline with green filter
+165,AAAG0.jpg,Case 165/AAAG0.jpg,AAAG0.jpg,Speculum examination
+165,AAAG1.jpg,Case 165/AAAG1.jpg,AAAG1.jpg,After normal saline
+165,AAAG4.jpg,Case 165/AAAG4.jpg,AAAG4.jpg,After acetic acid with green filter
+166,AAAH07.jpg,Case 166/AAAH07.jpg,AAAH07.jpg,After acetic acid
+166,AAAH11.jpg,Case 166/AAAH11.jpg,AAAH11.jpg,After acetic acid
+166,AAAH12.jpg,Case 166/AAAH12.jpg,AAAH12.jpg,After Lugol’s iodine
+166,AAAH02.jpg,Case 166/AAAH02.jpg,AAAH02.jpg,After normal saline
+166,AAAH04.jpg,Case 166/AAAH04.jpg,AAAH04.jpg,After normal saline with green filter
+167,AAAI11.jpg,Case 167/AAAI11.jpg,AAAI11.jpg,After Lugol’s iodine
+167,AAAI01.jpg,Case 167/AAAI01.jpg,AAAI01.jpg,After normal saline with green filter
+167,AAAI05.jpg,Case 167/AAAI05.jpg,AAAI05.jpg,After acetic acid
+167,AAAI00.jpg,Case 167/AAAI00.jpg,AAAI00.jpg,After normal saline
+168,AAGI3.jpg,Case 168/AAGI3.jpg,AAGI3.jpg,After acetic acid
+168,AAGI0.jpg,Case 168/AAGI0.jpg,AAGI0.jpg,After acetic acid
+168,AAGI2.jpg,Case 168/AAGI2.jpg,AAGI2.jpg,After normal saline
+168,AAGI1.jpg,Case 168/AAGI1.jpg,AAGI1.jpg,After Lugol’s iodine
+169,AADI2.jpg,Case 169/AADI2.jpg,AADI2.jpg,After acetic acid
+169,AADI1.jpg,Case 169/AADI1.jpg,AADI1.jpg,After acetic acid
+169,AADI0.jpg,Case 169/AADI0.jpg,AADI0.jpg,Speculum examination
+170,AAHW0.jpg,Case 170/AAHW0.jpg,AAHW0.jpg,After normal saline
+170,AAHW1.jpg,Case 170/AAHW1.jpg,AAHW1.jpg,After acetic acid
+170,AAHW2.jpg,Case 170/AAHW2.jpg,AAHW2.jpg,After acetic acid with green filter
+171,AAHY3.jpg,Case 171/AAHY3.jpg,AAHY3.jpg,After acetic acid with green filter
+171,AAHY0.jpg,Case 171/AAHY0.jpg,AAHY0.jpg,After acetic acid
+171,AAHY1.jpg,Case 171/AAHY1.jpg,AAHY1.jpg,After normal saline
+171,AAHY4.jpg,Case 171/AAHY4.jpg,AAHY4.jpg,After Lugol’s iodine
+171,AAHY2.jpg,Case 171/AAHY2.jpg,AAHY2.jpg,After acetic acid
+172,AADJ2.jpg,Case 172/AADJ2.jpg,AADJ2.jpg,Speculum examination with higher magnification
+172,AADJ7.jpg,Case 172/AADJ7.jpg,AADJ7.jpg,After Lugol’s iodine
+172,AADJ0.jpg,Case 172/AADJ0.jpg,AADJ0.jpg,Speculum examination
+172,AADJ6.jpg,Case 172/AADJ6.jpg,AADJ6.jpg,Examination with endocervical speculum
+172,AADJ5.jpg,Case 172/AADJ5.jpg,AADJ5.jpg,After acetic acid
+172,AADJ4.jpg,Case 172/AADJ4.jpg,AADJ4.jpg,After normal saline
+173,AADM0.jpg,Case 173/AADM0.jpg,AADM0.jpg,Speculum examination
+173,AADM7.jpg,Case 173/AADM7.jpg,AADM7.jpg,After Lugol’s iodine
+173,AADM4.jpg,Case 173/AADM4.jpg,AADM4.jpg,After acetic acid with green filter
+173,AADM1.jpg,Case 173/AADM1.jpg,AADM1.jpg,After normal saline with green filter
+173,AADM5.jpg,Case 173/AADM5.jpg,AADM5.jpg,After acetic acid
+174,AACH7.jpg,Case 174/AACH7.jpg,AACH7.jpg,After acetic acid with green filter
+174,AACH3.jpg,Case 174/AACH3.jpg,AACH3.jpg,After normal saline with green filter
+174,AACH5.jpg,Case 174/AACH5.jpg,AACH5.jpg,After acetic acid
+174,AACH0.jpg,Case 174/AACH0.jpg,AACH0.jpg,Speculum examination
+174,AACH1.jpg,Case 174/AACH1.jpg,AACH1.jpg,After normal saline
+175,AADD6.jpg,Case 175/AADD6.jpg,AADD6.jpg,After acetic acid
+175,AADD0.jpg,Case 175/AADD0.jpg,AADD0.jpg,Speculum examination
+175,AADD7.jpg,Case 175/AADD7.jpg,AADD7.jpg,After Lugol’s iodine
+175,AADD2.jpg,Case 175/AADD2.jpg,AADD2.jpg,After acetic acid
+175,AADD1.jpg,Case 175/AADD1.jpg,AADD1.jpg,After normal saline with green filter
+175,AADD3.jpg,Case 175/AADD3.jpg,AADD3.jpg,After acetic acid
+176,AAEL1.jpg,Case 176/AAEL1.jpg,AAEL1.jpg,After acetic acid with green filter
+176,AAEL3.jpg,Case 176/AAEL3.jpg,AAEL3.jpg,After acetic acid
+176,AAEL0.jpg,Case 176/AAEL0.jpg,AAEL0.jpg,Speculum examination
+176,AAEL4.jpg,Case 176/AAEL4.jpg,AAEL4.jpg,After Lugol’s iodine
+177,AAJG1.jpg,Case 177/AAJG1.jpg,AAJG1.jpg,After normal saline
+177,AAJG3.jpg,Case 177/AAJG3.jpg,AAJG3.jpg,After acetic acid
+177,AAJG0.jpg,Case 177/AAJG0.jpg,AAJG0.jpg,Speculum examination
+177,AAJG2.jpg,Case 177/AAJG2.jpg,AAJG2.jpg,After normal saline with green filter
+177,AAJG4.jpg,Case 177/AAJG4.jpg,AAJG4.jpg,After acetic acid
+177,AAJG5.jpg,Case 177/AAJG5.jpg,AAJG5.jpg,After Lugol’s iodine
+178,AADL3.jpg,Case 178/AADL3.jpg,AADL3.jpg,After acetic acid with green filter
+178,AADL4.jpg,Case 178/AADL4.jpg,AADL4.jpg,After Lugol’s iodine
+178,AADL0.jpg,Case 178/AADL0.jpg,AADL0.jpg,After acetic acid
+179,AADK05.jpg,Case 179/AADK05.jpg,AADK05.jpg,After acetic acid
+179,AADK10.jpg,Case 179/AADK10.jpg,AADK10.jpg,Examination of the vagina
+179,AADK06.jpg,Case 179/AADK06.jpg,AADK06.jpg,After acetic acid
+179,AADK01.jpg,Case 179/AADK01.jpg,AADK01.jpg,After normal saline
+179,AADK00.jpg,Case 179/AADK00.jpg,AADK00.jpg,Speculum examination
+179,AADK04.jpg,Case 179/AADK04.jpg,AADK04.jpg,After acetic acid
+180,AACJ3.jpg,Case 180/AACJ3.jpg,AACJ3.jpg,After acetic acid
+180,AACJ6.jpg,Case 180/AACJ6.jpg,AACJ6.jpg,After Lugol’s iodine
+180,AACJ1.jpg,Case 180/AACJ1.jpg,AACJ1.jpg,After normal saline with green filter
+180,AACJ5.jpg,Case 180/AACJ5.jpg,AACJ5.jpg,After acetic acid with green filter
+180,AACJ0.jpg,Case 180/AACJ0.jpg,AACJ0.jpg,Speculum examination
+181,AADQ04.jpg,Case 181/AADQ04.jpg,AADQ04.jpg,After acetic acid with green filter
+181,AADQ11.jpg,Case 181/AADQ11.jpg,AADQ11.jpg,After Lugol’s iodine
+181,AADQ08.jpg,Case 181/AADQ08.jpg,AADQ08.jpg,After acetic acid
+181,AADQ00.jpg,Case 181/AADQ00.jpg,AADQ00.jpg,After normal saline
+181,AADQ10.jpg,Case 181/AADQ10.jpg,AADQ10.jpg,After acetic acid
+181,AADQ01.jpg,Case 181/AADQ01.jpg,AADQ01.jpg,After acetic acid
+182,AADR04.jpg,Case 182/AADR04.jpg,AADR04.jpg,After acetic acid
+182,AADR07.jpg,Case 182/AADR07.jpg,AADR07.jpg,After acetic acid with green filter
+182,AADR00.jpg,Case 182/AADR00.jpg,AADR00.jpg,After normal saline
+182,AADR10.jpg,Case 182/AADR10.jpg,AADR10.jpg,After Lugol’s iodine
+182,AADR13.jpg,Case 182/AADR13.jpg,AADR13.jpg,After Lugol’s iodine
+182,AADR09.jpg,Case 182/AADR09.jpg,AADR09.jpg,After acetic acid
+182,AADR05.jpg,Case 182/AADR05.jpg,AADR05.jpg,After acetic acid
+182,AADR02.jpg,Case 182/AADR02.jpg,AADR02.jpg,After normal saline with green filter
+183,AADS1.jpg,Case 183/AADS1.jpg,AADS1.jpg,After acetic acid
+183,AADS5.jpg,Case 183/AADS5.jpg,AADS5.jpg,After acetic acid
+183,AADS2.jpg,Case 183/AADS2.jpg,AADS2.jpg,After acetic acid
+183,AADS6.jpg,Case 183/AADS6.jpg,AADS6.jpg,After Lugol’s iodine
+184,AAIU6.jpg,Case 184/AAIU6.jpg,AAIU6.jpg,After acetic acid with green filter
+184,AAIU5.jpg,Case 184/AAIU5.jpg,AAIU5.jpg,After acetic acid with green filter
+184,AAIU8.jpg,Case 184/AAIU8.jpg,AAIU8.jpg,After Lugol’s iodine
+184,AAIU3.jpg,Case 184/AAIU3.jpg,AAIU3.jpg,After acetic acid
+184,AAIU2.jpg,Case 184/AAIU2.jpg,AAIU2.jpg,After normal saline with green filter
+184,AAIU4.jpg,Case 184/AAIU4.jpg,AAIU4.jpg,After acetic acid
+184,AAIU1.jpg,Case 184/AAIU1.jpg,AAIU1.jpg,After normal saline
+184,AAIU9.jpg,Case 184/AAIU9.jpg,AAIU9.jpg,After Lugol’s iodine
+185,AAEY1.jpg,Case 185/AAEY1.jpg,AAEY1.jpg,After acetic acid
+185,AAEY3.jpg,Case 185/AAEY3.jpg,AAEY3.jpg,After acetic acid
+185,AAEY4.jpg,Case 185/AAEY4.jpg,AAEY4.jpg,After Lugol’s iodine
+185,AAEY0.jpg,Case 185/AAEY0.jpg,AAEY0.jpg,After normal saline
+186,AAEW2.jpg,Case 186/AAEW2.jpg,AAEW2.jpg,After Lugol’s iodine
+186,AAEW1.jpg,Case 186/AAEW1.jpg,AAEW1.jpg,After acetic acid
+186,AAEW0.jpg,Case 186/AAEW0.jpg,AAEW0.jpg,After normal saline
+187,AAEX6.jpg,Case 187/AAEX6.jpg,AAEX6.jpg,After Lugol’s iodine
+187,AAEX1.jpg,Case 187/AAEX1.jpg,AAEX1.jpg,After acetic acid
+187,AAEX5.jpg,Case 187/AAEX5.jpg,AAEX5.jpg,Visualization of the SCJ
+187,AAEX3.jpg,Case 187/AAEX3.jpg,AAEX3.jpg,After normal saline
+187,AAEX4.jpg,Case 187/AAEX4.jpg,AAEX4.jpg,Speculum examination
+188,AAGO2.jpg,Case 188/AAGO2.jpg,AAGO2.jpg,After normal saline
+188,AAGO3.jpg,Case 188/AAGO3.jpg,AAGO3.jpg,After acetic acid
+188,AAGO1.jpg,Case 188/AAGO1.jpg,AAGO1.jpg,Speculum examination
+188,AAGO4.jpg,Case 188/AAGO4.jpg,AAGO4.jpg,After acetic acid
+189,AAGS1.jpg,Case 189/AAGS1.jpg,AAGS1.jpg,After normal saline with green filter
+189,AAGS3.jpg,Case 189/AAGS3.jpg,AAGS3.jpg,After acetic acid
+189,AAGS2.jpg,Case 189/AAGS2.jpg,AAGS2.jpg,After acetic acid
+189,AAGS0.jpg,Case 189/AAGS0.jpg,AAGS0.jpg,After normal saline
+190,AAAA4.jpg,Case 190/AAAA4.jpg,AAAA4.jpg,After acetic acid
+190,AAAA2.jpg,Case 190/AAAA2.jpg,AAAA2.jpg,After normal saline
+190,AAAA0.jpg,Case 190/AAAA0.jpg,AAAA0.jpg,Speculum examination
+191,AAAO4.jpg,Case 191/AAAO4.jpg,AAAO4.jpg,After acetic acid
+191,AAAO0.jpg,Case 191/AAAO0.jpg,AAAO0.jpg,After normal saline
+191,AAAO1.jpg,Case 191/AAAO1.jpg,AAAO1.jpg,After normal saline with green filter
+192,AAGN2.jpg,Case 192/AAGN2.jpg,AAGN2.jpg,After acetic acid
+192,AAGN0.jpg,Case 192/AAGN0.jpg,AAGN0.jpg,Speculum examination
+192,AAGN3.jpg,Case 192/AAGN3.jpg,AAGN3.jpg,After Lugol’s iodine
+192,AAGN1.jpg,Case 192/AAGN1.jpg,AAGN1.jpg,After normal saline
+193,AAAB5.jpg,Case 193/AAAB5.jpg,AAAB5.jpg,After acetic acid with green filter
+193,AAAB1.jpg,Case 193/AAAB1.jpg,AAAB1.jpg,After normal saline
+193,AAAB3.jpg,Case 193/AAAB3.jpg,AAAB3.jpg,After acetic acid
+193,AAAB9.jpg,Case 193/AAAB9.jpg,AAAB9.jpg,After Lugol’s iodine
+194,AAGQ1.jpg,Case 194/AAGQ1.jpg,AAGQ1.jpg,After normal saline with green filter
+194,AAGQ2.jpg,Case 194/AAGQ2.jpg,AAGQ2.jpg,After acetic acid
+194,AAGQ4.jpg,Case 194/AAGQ4.jpg,AAGQ4.jpg,After acetic acid with green filter
+194,AAGQ0.jpg,Case 194/AAGQ0.jpg,AAGQ0.jpg,After normal saline
+194,AAGQ5.jpg,Case 194/AAGQ5.jpg,AAGQ5.jpg,After Lugol’s iodine
+195,AAGP5.jpg,Case 195/AAGP5.jpg,AAGP5.jpg,Visualization of the SCJ
+195,AAGP6.jpg,Case 195/AAGP6.jpg,AAGP6.jpg,Visualization of the SCJ
+195,AAGP4.jpg,Case 195/AAGP4.jpg,AAGP4.jpg,After acetic acid
+195,AAGP2.jpg,Case 195/AAGP2.jpg,AAGP2.jpg,After acetic acid
+195,AAGP3.jpg,Case 195/AAGP3.jpg,AAGP3.jpg,After acetic acid with green filter
+195,AAGP0.jpg,Case 195/AAGP0.jpg,AAGP0.jpg,Speculum examination
+195,AAGP7.jpg,Case 195/AAGP7.jpg,AAGP7.jpg,After Lugol’s iodine
+196,AACX0.jpg,Case 196/AACX0.jpg,AACX0.jpg,After normal saline
+196,AACX1.jpg,Case 196/AACX1.jpg,AACX1.jpg,After normal saline with green filter
+196,AACX2.jpg,Case 196/AACX2.jpg,AACX2.jpg,After acetic acid
+196,AACX3.jpg,Case 196/AACX3.jpg,AACX3.jpg,After acetic acid
+196,AACX4.jpg,Case 196/AACX4.jpg,AACX4.jpg,After acetic acid with green filter
+197,AAIY0.jpg,Case 197/AAIY0.jpg,AAIY0.jpg,After normal saline
+197,AAIY4.jpg,Case 197/AAIY4.jpg,AAIY4.jpg,After acetic acid with green filter
+197,AAIY3.jpg,Case 197/AAIY3.jpg,AAIY3.jpg,After acetic acid
+197,AAIY2.jpg,Case 197/AAIY2.jpg,AAIY2.jpg,After acetic acid
+197,AAIY1.jpg,Case 197/AAIY1.jpg,AAIY1.jpg,After normal saline with green filter
+198,AAGU6.jpg,Case 198/AAGU6.jpg,AAGU6.jpg,After acetic acid
+198,AAGU3.jpg,Case 198/AAGU3.jpg,AAGU3.jpg,After normal saline
+198,AAGU1.jpg,Case 198/AAGU1.jpg,AAGU1.jpg,Speculum examination
+198,AAGU4.jpg,Case 198/AAGU4.jpg,AAGU4.jpg,After normal saline with green filter
+199,AAIX1.jpg,Case 199/AAIX1.jpg,AAIX1.jpg,After acetic acid
+199,AAIX0.jpg,Case 199/AAIX0.jpg,AAIX0.jpg,After normal saline
+199,AAIX3.jpg,Case 199/AAIX3.jpg,AAIX3.jpg,After Lugol’s iodine
+199,AAIX2.jpg,Case 199/AAIX2.jpg,AAIX2.jpg,After acetic acid with green filter
+200,AAGT5.jpg,Case 200/AAGT5.jpg,AAGT5.jpg,After acetic acid
+200,AAGT1.jpg,Case 200/AAGT1.jpg,AAGT1.jpg,Examination of the vulva
+200,AAGT4.jpg,Case 200/AAGT4.jpg,AAGT4.jpg,After normal saline with green filter
+200,AAGT0.jpg,Case 200/AAGT0.jpg,AAGT0.jpg,Unknown
+200,AAGT2.jpg,Case 200/AAGT2.jpg,AAGT2.jpg,Speculum examination
+53,AAFW4.jpg,case 053/AAFW4.jpg,AAFW4.jpg,After Lugol’s iodine
+53,AAFW2.jpg,case 053/AAFW2.jpg,AAFW2.jpg,After normal saline with green filter
+53,AAFW0.jpg,case 053/AAFW0.jpg,AAFW0.jpg,After normal saline
+53,AAFW3.jpg,case 053/AAFW3.jpg,AAFW3.jpg,After acetic acid
